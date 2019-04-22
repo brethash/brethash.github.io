@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://brethash.com/portfolio/</loc>
+    <loc>https://brethash.github.io/portfolio/</loc>
   </url>
   
   <url>
-    <loc>http://brethash.com/about/</loc>
+    <loc>https://brethash.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://brethash.com/categories/</loc>
+    <loc>https://brethash.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://brethash.com/contact/</loc>
+    <loc>https://brethash.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://brethash.com/</loc>
+    <loc>https://brethash.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://brethash.com/portfolio/raspberium/</loc>
+    <loc>https://brethash.github.io/portfolio/raspberium/</loc>
   </url>
   
   <url>
-    <loc>http://brethash.com/tags/</loc>
+    <loc>https://brethash.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://brethash.com/tags/php/</loc>
+    <loc>https://brethash.github.io/tags/php/</loc>
     <priority>0</priority>
   </url>
   
