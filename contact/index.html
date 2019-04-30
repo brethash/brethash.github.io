@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="https://brethash.github.io/css/bootstrap.min.css" />
 <link rel="stylesheet" href="https://brethash.github.io/css/bootstrap-theme.min.css" />
 
-<link rel="stylesheet" href="https://brethash.github.io/scss/main.min.24e9b78f6b128ecc8bc4d52c953c76e467bd1db62ac4ffb153fe4916bf19e6e9.css" integrity="sha256-JOm3j2sSjsyLxNUslTx25Ge9HbYqxP&#43;xU/5JFr8Z5uk=" media="screen">
+<link rel="stylesheet" href="https://brethash.github.io/scss/main.min.9b37e6889156fa7d63f2a1dc88a2351f7f1bf2a374b02172ebeefa9d7f595d1b.css" integrity="sha256-mzfmiJFW&#43;n1j8qHciKI1H38b8qN0sCFy6&#43;76nX9ZXRs=" media="screen">
 
 
   <!--[if lt IE 9]>
@@ -43,29 +43,8 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="/about">About Me</a></li>
-
-            <li class="dropdown">
-              <a href="/portfolio" class="dropdown-toggle disabled" data-toggle="dropdown">My Work <span class="glyphicon glyphicon-chevron-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li class="dropdown">
-              <a href="/portfolio/brands" class="dropdown-toggle disabled" data-toggle="dropdown">Brands <span class="glyphicon glyphicon-chevron-right"></span></a>
-              <ul class="dropdown-menu dropdown-menu-right" role="menu">
-                <li><a href="/portfolio/craftsman">Craftsman</a></li>
-                <li><a href="/portfolio/kenmore">Kenmore</a></li>
-                <li><a href="/portfolio/gladiator">Gladiator</a></li>
-                <li><a href="/portfolio/freelance">Freelance</a></li>
-              </ul>
-                </li>
-                <li class="dropdown">
-              <a href="/portfolio/frameworks" class="dropdown-toggle disabled" data-toggle="dropdown">Frameworks <span class="glyphicon glyphicon-chevron-right"></span></a>
-              <ul class="dropdown-menu dropdown-menu-right" role="menu">
-                <li><a href="/portfolio/magento">Magento</a></li>
-                    <li><a href="/portfolio/wordpress">Wordpress</a></li>
-                    <li><a href="/portfolio/codeigniter">Codeigniter</a></li>
-              </ul>
-                </li>
-              </ul>
-            </li>
+            <li><a href="/portfolio">My Work</a></li>
+            <li><a href="/resume">Resume</a></li>
             <li><a href="/contact">Contact</a></li>
           </ul>
         </div>
@@ -76,24 +55,29 @@
 
   <section id="content">
     
-<div class="container">
-  <h2>Contact Me</h2>
-  <hr/>
-  <div class="container getatme col-lg-4 col-xs-12">
-    <p>Have a question about my work?<br />Interested in collaborating on a cool project?<br />Just feel like telling me to go fly a kite?</p>
-    <p>Fill out the form to the right! Assuming you aren't spamming me, I'll get back to you ASAP!</p>
-  </div>
-  <div class="container col-lg-8 col-xs-12">
-    <form action="/contact" method="post">
-      <p class="message"><textarea name="message" id="message" placeholder="Message"></textarea></p>
-      <p><label for="name"><span><span class="glyphicon glyphicon-user"></span></span></label><input type="text" name="name" id="name" placeholder="Name" /></p>
-      <p><label for="email"><span><span class="glyphicon glyphicon-envelope"></span></span></label><input type="text" name="email" id="email" placeholder="Email" /></p>
-      <p><label for="link"><span><span class="glyphicon glyphicon-link"></span></span></label><input type="text" name="link" id="link" placeholder="Link" /></p>
-      <p class="submit"><button type="submit" class="btn btn-lg btn-default">Send me some mail!</button></p>
-      <span>TODO: SUCCESS MESSAGE GOES HERE</span>
-        </form>
+<div class="container col-lg-12 col-xs-12">
+  <div class="container">
+    <h2>Contact Me</h2>
+    <hr/>
+    <div class="container getatme col-lg-4 col-xs-12">
+      <p>Have a question about my work?<br />Interested in collaborating on a cool project?<br />Just feel like telling me to go fly a kite?</p>
+      <p>Fill out the form to the right! Assuming you aren't spamming me, I'll get back to you ASAP!</p>
+    </div>
+    <div class="container col-lg-8 col-xs-12">
+      <form action="https://formspree.io/info@brethash.com" method="post">
+        <p class="message"><textarea name="message" id="message" placeholder="Message"></textarea></p>
+        <p><label for="name"><span><span class="glyphicon glyphicon-user"></span></span></label>
+          <input type="text" name="name" id="name" placeholder="Name" /></p>
+        <p><label for="email"><span><span class="glyphicon glyphicon-envelope"></span></span></label>
+          <input type="email" name="_replyto" id="email" placeholder="Email" /></p>
+        <p><label for="link"><span><span class="glyphicon glyphicon-link"></span></span></label>
+          <input type="text" name="link" id="link" placeholder="Link" /></p>
+        <p class="submit"><button type="submit" class="btn btn-lg btn-default">Send me some mail!</button></p>
+      </form>
+    </div>
   </div>
 </div>
+<br class="clear" />
 
   </section>
   <footer>
@@ -106,7 +90,7 @@
         <img src="/images/spacekitty.gif" id="theKitty" />
     </div>
 </footer>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://brethash.github.io/js/bootstrap.min.js"></script>
 <script src="https://brethash.github.io/js/isotope.pkgd.min.js"></script>
 <script src="https://brethash.github.io/js/scripts.js"></script>

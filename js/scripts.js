@@ -1,7 +1,7 @@
 var colorCounter = 0;
-var filterProjects = function(type){
-  $('.filters + ul').isotope({filter: type});
-}
+var filterProjects = function(type) {
+    $('.filters + ul').isotope({filter: type});
+};
 var advanceColors = function(){
   var backgroundColors = ['#e8c1ab','#ff8785','#ffdfa0','#d6c6ff','#ff8785','#59b97b'];
   var textColors = ['#ff8785','#d6c6ff','#e5bbe8','#59b97b','#e5bbe8','#ff8785'];
@@ -15,7 +15,7 @@ var advanceColors = function(){
   else{
     colorCounter = 0;
   }
-}
+};
 var checkWidth = function(){
 	if ($(window).width() < 1200){
 		$('.getatme p:nth-child(2)').html('Fill out the form below! Assuming you aren\'t spamming me, I\'ll get back to you ASAP!');
@@ -31,11 +31,11 @@ var checkWidth = function(){
 			$('.message').prependTo($('.getatme + .container form'));
 		}
 	}
-} 
+};
 
 $(document).ready(function(){
   checkWidth();
-})
+});
 
 $(function(){
   var windowHeight = $(window).height() + 800;
@@ -67,7 +67,7 @@ $(function(){
   $('.home #carousel').bind('slide.bs.carousel', function(){
     advanceColors()
   });
-  
+
   $('.filters + ul').isotope(
     {
       itemSelector: '.project',
