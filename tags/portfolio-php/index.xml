@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>portfolio php on Bret Hash | Person Extraordinaire</title>
-    <link>https://brethash.com/tags/portfolio-php/</link>
+    <link>http://brethash.com/tags/portfolio-php/</link>
     <description>Recent content in portfolio php on Bret Hash | Person Extraordinaire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://brethash.com/tags/portfolio-php/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://brethash.com/tags/portfolio-php/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rated90</title>
-      <link>https://brethash.com/portfolio/rated90/</link>
+      <link>http://brethash.com/portfolio/rated90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brethash.com/portfolio/rated90/</guid>
+      <guid>http://brethash.com/portfolio/rated90/</guid>
       <description>Built on a hybrid of CodeIgniter and Wordpress, this site shares templates between the two platforms. Using CodeIgniter, the site efficiently manages a 6,000+ player database.</description>
     </item>
     

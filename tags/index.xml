@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bret Hash | Person Extraordinaire</title>
-    <link>https://brethash.com/tags/</link>
+    <link>http://brethash.com/tags/</link>
     <description>Recent content in Tags on Bret Hash | Person Extraordinaire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://brethash.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://brethash.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>portfolio aem</title>
-      <link>https://brethash.com/tags/portfolio-aem/</link>
+      <link>http://brethash.com/tags/portfolio-aem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brethash.com/tags/portfolio-aem/</guid>
+      <guid>http://brethash.com/tags/portfolio-aem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>portfolio iot</title>
-      <link>https://brethash.com/tags/portfolio-iot/</link>
+      <link>http://brethash.com/tags/portfolio-iot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brethash.com/tags/portfolio-iot/</guid>
+      <guid>http://brethash.com/tags/portfolio-iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>portfolio magento php javascript</title>
-      <link>https://brethash.com/tags/portfolio-magento-php-javascript/</link>
+      <link>http://brethash.com/tags/portfolio-magento-php-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brethash.com/tags/portfolio-magento-php-javascript/</guid>
+      <guid>http://brethash.com/tags/portfolio-magento-php-javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>portfolio php</title>
-      <link>https://brethash.com/tags/portfolio-php/</link>
+      <link>http://brethash.com/tags/portfolio-php/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brethash.com/tags/portfolio-php/</guid>
+      <guid>http://brethash.com/tags/portfolio-php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>portfolio php magento</title>
-      <link>https://brethash.com/tags/portfolio-php-magento/</link>
+      <link>http://brethash.com/tags/portfolio-php-magento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brethash.com/tags/portfolio-php-magento/</guid>
+      <guid>http://brethash.com/tags/portfolio-php-magento/</guid>
       <description></description>
     </item>
     
