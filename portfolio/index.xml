@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://brethash.com/portfolio/august-locks/</guid>
-      <description></description>
+      <description>In order to create a simplified store experience, we completely rewrote the frontend cart and checkout experience in Magento 1.9.x. Fraud protection, Stripe payment gateway, and a custom warehouse/inventory integration were also implemented to streamline the back office experience.</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@ Features
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://brethash.com/portfolio/san-francisco-museum-of-modern-art/</guid>
-      <description></description>
+      <description>Custom integrations for bidirectional communication between legacy inventory and warehouse management were developed for Magento 1.9.x. A custom authentication provider was implemented to tie into a niche membership management system, providing a seamless in-person and online experience for customers.</description>
     </item>
     
   </channel>
