@@ -3,93 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://brethash.github.io/portfolio/</loc>
-    <lastmod>2019-04-01T00:00:00-06:00</lastmod>
+    <loc>https://brethash.com/portfolio/</loc>
   </url>
   
   <url>
-    <loc>https://brethash.github.io/portfolio/77-million-paintings/</loc>
-    <lastmod>2019-04-01T00:00:00-06:00</lastmod>
+    <loc>https://brethash.com/portfolio/24-hour-fitness/</loc>
   </url>
   
   <url>
-    <loc>https://brethash.github.io/</loc>
-    <lastmod>2019-04-01T00:00:00-06:00</lastmod>
+    <loc>https://brethash.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://brethash.github.io/tags/</loc>
-    <lastmod>2019-04-01T00:00:00-06:00</lastmod>
+    <loc>https://brethash.com/portfolio/august-locks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brethash.github.io/tags/portfolio-iot/</loc>
-    <lastmod>2019-04-01T00:00:00-06:00</lastmod>
+    <loc>https://brethash.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/portfolio/f5-networks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/portfolio/ford/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/portfolio/kaiser-permanente/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/portfolio/raspberium/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/portfolio/rated90/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/portfolio/san-francisco-museum-of-modern-art/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brethash.github.io/portfolio/24-hour-fitness/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/portfolio/august-locks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/categories/</loc>
+    <loc>https://brethash.com/tags/portfolio-aem/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brethash.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/portfolio/f5-networks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/portfolio/ford/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/portfolio/kaiser-permanente/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/portfolio/raspberium/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/portfolio/rated90/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/portfolio/san-francisco-museum-of-modern-art/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brethash.github.io/tags/portfolio-aem/</loc>
+    <loc>https://brethash.com/tags/portfolio-iot/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brethash.github.io/tags/portfolio-magento-php-javascript/</loc>
+    <loc>https://brethash.com/tags/portfolio-magento-php-javascript/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brethash.github.io/tags/portfolio-php/</loc>
+    <loc>https://brethash.com/tags/portfolio-php/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/tags/portfolio-php-magento/</loc>
     <priority>0</priority>
   </url>
   
