@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://brethash.com/portfolio/</loc>
-  </url>
-  
-  <url>
     <loc>https://brethash.com/portfolio/24-hour-fitness/</loc>
   </url>
   
@@ -41,6 +37,10 @@
   
   <url>
     <loc>https://brethash.com/portfolio/kaiser-permanente/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brethash.com/portfolio/</loc>
   </url>
   
   <url>
